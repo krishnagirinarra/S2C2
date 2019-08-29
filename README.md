@@ -20,8 +20,11 @@ Once a k8s cluster is up and running, please refer to the README in the k8s/ fol
 
 ### docker related instructions
 coded_computation_docker/codedComputation.Dockerfile is the Dockerfile used to dockerize the workloads.
+
 coded_computation_docker/apps contains the workloads used for evaluations.
+
 coded_computation_docker/apps/s2c2 contains the codes for S2C2 workload used for evaluations.
+
 coded_computation_docker/apps/static contains the codes for conventional MDS workload used for evaluations.
 
 ## License
