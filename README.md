@@ -8,7 +8,7 @@ This software is used in the following paper:
 [arXiv:1904.07098](https://arxiv.org/abs/1904.07098)
 
 ## Disclaimer
-This software is a proof-of-concept meant ONLY for performance evaluations of the Slack Squeeze Coded Computing(S2C2) framework.
+This software is a proof-of-concept meant only for performance evaluations of the Slack Squeeze Coded Computing(S2C2) framework.
 
 ## Running
 ### kubernetes related instructions
