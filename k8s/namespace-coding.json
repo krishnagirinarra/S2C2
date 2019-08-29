@@ -1,0 +1,10 @@
+{
+  "kind": "Namespace",
+  "apiVersion": "v1",
+  "metadata": {
+    "name": "krishna-coding",
+    "labels": {
+      "name": "krishna-coding"
+    }
+  }
+}

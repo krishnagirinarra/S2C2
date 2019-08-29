@@ -1,0 +1,275 @@
+{
+  "matrixConfigs": {
+    "dimension" : 6000,
+    "encoding" : [[1,0,0,0,0,0,0,0,0,0,1,1],
+                  [0,1,0,0,0,0,0,0,0,0,1,2],
+                  [0,0,1,0,0,0,0,0,0,0,1,3],
+                  [0,0,0,1,0,0,0,0,0,0,1,4],
+                  [0,0,0,0,1,0,0,0,0,0,1,5],
+                  [0,0,0,0,0,1,0,0,0,0,1,6],
+                  [0,0,0,0,0,0,1,0,0,0,1,7],
+                  [0,0,0,0,0,0,0,1,0,0,1,8],
+                  [0,0,0,0,0,0,0,0,1,0,1,9],
+                  [0,0,0,0,0,0,0,0,0,1,1,10]]
+  },
+
+  "masterConfigs": {
+    "PortNum" : "57023",
+    "IP": "nerv1"
+  },
+
+  "slaveConfigs": {
+    "slave1": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv2"
+    },
+    "slave2": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv3"
+    },
+    "slave3": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv4"
+    },
+    "slave4": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv5"
+    },
+    "slave5": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv6"
+    },
+    "slave6": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv7"
+    },
+    "slave7": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv8"
+    },
+    "slave8": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv9"
+    },
+    "slave9": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv10"
+    },
+    "slave10": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv11"
+    },
+    "slave11": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv12"
+    },
+    "slave12": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv13"
+    },
+    "slave13": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv2"
+    },
+    "slave14": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv3"
+    },
+    "slave15": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv4"
+    },
+    "slave16": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv5"
+    },
+    "slave17": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv6"
+    },
+    "slave18": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv7"
+    },
+    "slave19": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv8"
+    },
+    "slave20": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv9"
+    },
+    "slave21": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv10"
+    },
+    "slave22": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv11"
+    },
+    "slave23": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv12"
+    },
+    "slave24": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv13"
+    },
+    "slave25": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv2"
+    },
+    "slave26": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv3"
+    },
+    "slave27": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv4"
+    },
+    "slave28": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv5"
+    },
+    "slave29": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv6"
+    },
+    "slave30": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv7"
+    },
+    "slave31": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv8"
+    },
+    "slave32": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv9"
+    },
+    "slave33": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv10"
+    },
+    "slave34": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv11"
+    },
+    "slave35": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv12"
+    },
+    "slave36": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv13"
+    },
+    "slave37": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv2"
+    },
+    "slave38": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv3"
+    },
+    "slave39": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv4"
+    },
+    "slave40": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv5"
+    },
+    "slave41": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv6"
+    },
+    "slave42": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv7"
+    },
+    "slave43": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv8"
+    },
+    "slave44": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv9"
+    },
+    "slave45": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv10"
+    },
+    "slave46": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv11"
+    },
+    "slave47": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv12"
+    },
+    "slave48": {
+      "PortNum" : "57023",
+      "speedTrace" : "/home/zhifeng/apps/speeds/result.node3.out",
+      "IP": "nerv13"
+    }
+
+  },
+
+  "execTimes" : [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 
+                 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5,
+                 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5,
+                 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+
+  "chunks" : 1,
+  "window" : 1,
+  "cI" : 0,
+  "cMA1" : 0.5,
+  "cMA2" : 0.5
+}
