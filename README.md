@@ -28,7 +28,7 @@ coded_computation_docker/apps/s2c2 contains the codes for S2C2 workload used for
 coded_computation_docker/apps/static contains the codes for conventional MDS workload used for evaluations.
 
 ### dataset
-The dataset that is computed on needs to be encoded into multiple partition files and stored following the naming in corresponding workload files.
+The dataset, that is computed on, needs to be encoded into multiple partition files and stored. Please follow the naming in corresponding files inside apps/ folder.
 
 ## License
 MIT License
